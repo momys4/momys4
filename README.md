@@ -1,53 +1,65 @@
-██████╗░░█████╗░██╗░█████╗░███████╗  ░█████╗░░█████╗░██████╗░██╗███╗░░██╗░██████╗░
-██╔══██╗██╔══██╗██║██╔══██╗╚════██║  ██╔══██╗██╔══██╗██╔══██╗██║████╗░██║██╔════╝░
-██████╦╝██║░░██║██║██║░░╚═╝░░░░██╔╝  ██║░░██║██║░░██║██████╔╝██║██╔██╗██║██║░░██╗░
-██╔══██╗██║░░██║██║██║░░██╗░░░██╔╝░  ██║░░██║██║░░██║██╔═══╝░██║██║╚████║██║░░╚██╗
-██████╦╝╚█████╔╝██║╚█████╔╝░░██╔╝░░  ╚█████╔╝╚█████╔╝██║░░░░░██║██║░╚███║╚██████╔╝
-╚═════╝░░╚════╝░╚═╝░╚════╝░░░╚═╝░░░  ░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚══╝░╚═════╝░
 
-# VIBE CODING // OJI.EXE
+################################################################################
+#                                                                              #
+#   ██████╗  ██████╗ ██╗     ██╗      ██████╗  ██████╗  ██████╗ ██╗  ██╗ ██████╗  #
+#  ██╔════╝ ██╔═══██╗██║     ██║     ██╔═══██╗██╔═══██╗██╔═══██╗██║ ██╔╝██╔═══██╗ #
+#  ██║  ███╗██║   ██║██║     ██║     ██║   ██║██║   ██║██║   ██║█████╔╝ ██║   ██║ #
+#  ██║   ██║██║   ██║██║     ██║     ██║   ██║██║   ██║██║   ██║██╔═██╗ ██║   ██║ #
+#  ╚██████╔╝╚██████╔╝███████╗███████╗╚██████╔╝╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝ #
+#   ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  #
+#                                                                              #
+################################################################################
 
-> "Ngoding dari desa, swap dari terminal, mimpi gue lintas blockchain."
-> – Oji, Node Junkie // Airdrop Sniper
+> [USER]        : oji.exe
+> [LOCATION]    : Rural Kebumen // Connected to Metaverse
+> [ROLE]        : Fullstack Cyberpunk Dev & Node Runner
+> [MISSION]     : Multi-chain swap, ethical hacking, node domination
 
----
+-------------------------------------------------------------------------------
+IDENTITY
+-------------------------------------------------------------------------------
+  NAME        : Oji
+  GEAR        : Lenovo T450 (The loyal, old warrior)
+  TOOLS       : SQLMap | Metasploit | ethers.js | GitHub Codespace
+  SPECIALITY  : Web3 | DePIN | Token Swap | Node Running
+  ATTITUDE    : Anti-Kolot, Pro-Techno-Future
 
-## 🧠 IDENTITAS CYBER
+-------------------------------------------------------------------------------
+CODE DNA
+-------------------------------------------------------------------------------
+  * MULTI-CHAIN SWAP dApp
+    - Direct blockchain interaction
+    - Support 12+ networks:
+      Ethereum, Arbitrum, Optimism, Somnia, Sepolia, Blast, Polygon, zkSync, Swan Chain
 
-- **Nama**: Oji
-- **Lokasi**: Rural side of Kebumen, connected to the Metaverse
-- **Spesialisasi**: Web3, DePIN, Crypto, Token Swap, Node Runner
-- **Mindset**: Anti kolot, pro sistem masa depan
-- **Gear**: Lenovo T450 // Mouse tua // HP jadi server // GitHub Codespace
+  * CYBERSECURITY OPERATIONS
+    - Custom pentesting with SQLMap
+    - Ethical exploit simulation using Metasploit
+    - Campus projects and reports
 
----
+  * NODE WARFARE
+    - Running Nexus, Dawn, Gradient, Despeed, Alpha OS, LayerEdge
+    - On local laptop & GitHub Codespace, always online!
 
-## 🧬 DNA NGODE
+  * SYMBIOTIC RESTAKING PROTOCOL
+    - Stake once, protect multiple chains
+    - Efficient, scalable, flexible
 
-- 🔄 **Multi-Chain Swap dApp**  
-  Kode langsung sentuh blockchain  
-  Mirip Uniswap, dengan fitur input, animasi, wallet connect, dan dukungan 12+ chain:
-  Ethereum, Arbitrum, Optimism, Somnia, Sepolia, Blast, Polygon, zkSync, Swan Chain, dll
+-------------------------------------------------------------------------------
+TOOLS & SETUP
+-------------------------------------------------------------------------------
+  Laptop       : Lenovo T450 (old but reliable)
+  Mouse        : Vintage relic, hand numbness won't stop me
+  Phone        : Second-hand, turned into 24/7 node server
+  Terminal     : GitHub Codespace (Cloud power)
+  Software     : SQLMap, Metasploit, ethers.js, smart contracts, and more
 
-- 🔐 **Cybersecurity Hands-On**  
-  SQLMap buat uji web buatan sendiri  
-  Metasploit Framework buat simulasi ethical exploit  
-  Testing buat laporan tugas IT kampus
+-------------------------------------------------------------------------------
+WEBSITE
+-------------------------------------------------------------------------------
+  https://fascinating-platypus-fa5610.netlify.app/
 
-- 📡 **Node Warrior**  
-  Nexus | Dawn | Gradient | Despeed | Alpha OS | LayerEdge  
-  Jalan di laptop lokal dan GitHub Codespace – bukan cuma tes, tapi running beneran
-
-- 🔁 **Symbiotic Restaking Protocol**  
-  Vault | Staker | Kurator | Operator | Resolver  
-  Stake sekali, amankan banyak jaringan  
-  Hemat modal, fleksibel, scalable, dan anti rugi sistem
-
----
-
-## ⚙️ TECH STACK
-
-
+################################################################################
 
 
 <!---
